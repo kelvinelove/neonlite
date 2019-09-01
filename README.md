@@ -23,18 +23,18 @@
 This is how the theme looks:
 
 HTML
-[![Screenshot](https://github.com/kelvinelove/neoncode/blob/master/assets/ss1.jpg "How HTML looks when the theme is applied")](#)
+[![Screenshot](https://github.com/kelvinelove/neonlite/blob/master/assets/ss1.jpg "How HTML looks when the theme is applied")](#)
 
 CSS
-[![Screenshot](https://github.com/kelvinelove/neoncode/blob/master/assets/ss2.jpg?raw=true "How CSS and LESS looks")](#)
+[![Screenshot](https://github.com/kelvinelove/neonlite/blob/master/assets/ss2.jpg?raw=true "How CSS and LESS looks")](#)
 
 Markdown
-[![Screenshot](https://github.com/kelvinelove/neoncode/blob/master/assets/ss3.jpg?raw=true "Markdown")](#)
+[![Screenshot](https://github.com/kelvinelove/neonlite/blob/master/assets/ss3.jpg?raw=true "Markdown")](#)
 
 JavaScript
-[![Screenshot](https://github.com/kelvinelove/neoncode/blob/master/assets/ss4.jpg?raw=true "How JS looks in the theme")](#)
+[![Screenshot](https://github.com/kelvinelove/neonlite/blob/master/assets/ss4.jpg?raw=true "How JS looks in the theme")](#)
 
 Python
-[![Screenshot](https://github.com/kelvinelove/neoncode/blob/master/assets/ss5.jpg?raw=true "Python")](#)
+[![Screenshot](https://github.com/kelvinelove/neonlite/blob/master/assets/ss5.jpg?raw=true "Python")](#)
 
 
