@@ -1,12 +1,12 @@
 #  🖥 NeonLite
 
- A less dark variant of [NeonCode](https://github.com/kelvinelove/neonlite)... The background blends well with the default brackets sidebars color, to create a seamless feel. 
+ A less dark variant of [NeonCode](https://github.com/kelvinelove/neoncode)... The background blends well with the default brackets sidebars color, to create a seamless feel. 
 
 <!--A theme for @Adobe's [Brackets](https://github.com/adobe/brackets) IDE with neon effects and shadows.-->
 
 ## How to install
 1. Select **Brackets > File > Extension Manager...**
-2. Search for [Neon Code](https://github.com/kelvinelove/neonlite/).
+2. Search for [Neon Lite](https://github.com/kelvinelove/neonlite/).
 3. Click on the **Install** button.
 
 **OR**
