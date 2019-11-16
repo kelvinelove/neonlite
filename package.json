@@ -3,7 +3,7 @@
     "title": "Neon Lite",
     "description": "A semi-dark theme Neon effects on a light theme. The light variant of the NeonCode brackets theme i made earlier...",
     "homepage": "https://github.com/kelvinelove/neonlite.git",
-    "version": "0.5.0",
+    "version": "0.5.1",
     "engines.brackets": "1.14.0-17740",
     "author": "@kelvinelove (https://github.com/kelvinelove)",
     "license": "MIT",
@@ -12,5 +12,5 @@
         "dark": true,
         "addModeClass": true
     },
-    "keywords": ["theme, neon lights, neonlite, neon lite, neon, tokyo, kelvinelove, glowing"]
+    "keywords": ["theme, neon lights, neonlite, neon lite, neon, tokyo, kelvinelove, glowing, best theme"]
 }
