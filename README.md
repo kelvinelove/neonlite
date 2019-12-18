@@ -1,6 +1,6 @@
 #  🖥 NeonLite
 
- A less dark variant of [NeonCode](https://github.com/kelvinelove/neonlite)... The background blends well with the default brackets sidebars color, to create a seamless feel. 
+ A less dark variant of [NeonCode](https://github.com/kelvinelove/neoncode)... The background blends well with the default brackets sidebars color, to create a seamless feel. 
 
 <!--A theme for @Adobe's [Brackets](https://github.com/adobe/brackets) IDE with neon effects and shadows.-->
 
