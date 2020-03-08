@@ -3,7 +3,7 @@
     "title": "Neon Lite",
     "description": "A semi-dark theme Neon effects on a light theme. The light variant of the NeonCode brackets theme i made earlier...",
     "homepage": "https://github.com/kelvinelove/neonlite.git",
-    "version": "0.5.2",
+    "version": "0.5.3",
     "engines.brackets": "1.14.1-17752",
     "author": "@kelvinelove (https://github.com/kelvinelove)",
     "license": "MIT",
